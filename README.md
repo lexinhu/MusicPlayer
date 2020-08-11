@@ -1,13 +1,14 @@
 # MusicPlayer
-### 一款通过学习vue模仿出来的在线音乐播放器
 
-演示网站:http://music.xn2001.com
+演示网站:https://music.xn2001.com
 
-![](https://cdn.xn2001.com/img/GitHub/image-20200121000737073.png)
+![](https://cdn.xn2001.com/img/GitHub/image-20200121000737073.png#vwid=1146&vhei=784)
 
-![](https://cdn.xn2001.com/img/GitHub/image-20200121001144141.png)
+![](https://cdn.xn2001.com/img/GitHub/image-20200121001144141.png#vwid=1013&vhei=647)
 
-#### 相关功能：
+GitHub地址：https://github.com/lexinhu/MusicPlayer
+
+# 相关功能：
 
 - 搜索歌手与歌曲名
 - 播放歌曲
@@ -15,9 +16,9 @@
 - 有mv时可以播放mv
 - 右侧会展示一些热门留言
 
-#### 初衷：
+# 声明
 
-1. 学习的一个交代品，也可以说是作业吧。
-2. 不会后续更新维护。
-3. 不确保接口可以一直有效。
-4. 很简单的一个东西，大家可以下载自己玩。
+1. 一个小作业吧。
+2. 开源让有缘人学习。
+3. 不确保接口可以一直有效。（会尽量寻找好的接口替换）
+4. 学习于哔哩哔哩黑马程序员的vue入门视频，强烈建议想学vue语法得到同学观看。
